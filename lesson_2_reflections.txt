@@ -5,3 +5,11 @@ a:
 unicjalizuje program do sprawdzania plikow zeby sprawdzac modyfikacje
 we wszystkich plikach.
 
+2.8
+q:
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+a:
+pozwala ustawic pliki do dodania i obserwacji oraz ogranicza koniecznosc
+sprawdzania wszytstkich rzeczy.
+
