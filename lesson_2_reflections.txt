@@ -1,0 +1,7 @@
+2.5
+q:
+What happens when you initialize a repository? Why do you need to do it?
+a:
+unicjalizuje program do sprawdzania plikow zeby sprawdzac modyfikacje
+we wszystkich plikach.
+
