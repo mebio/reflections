@@ -13,3 +13,10 @@ a:
 pozwala ustawic pliki do dodania i obserwacji oraz ogranicza koniecznosc
 sprawdzania wszytstkich rzeczy.
 
+2.12
+q:
+How can you use the staging area to make sure you have one commit per logical change?
+a:
+po wprowadzeniu zmian od razu wyslac plik do wprowadzenia
+
+
