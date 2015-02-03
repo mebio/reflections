@@ -26,3 +26,9 @@ How would branches help?
 a:
 rozgalezienia pomagaja wyprobowac rozne wersje programu
 
+2.19
+q:
+How do the diagrams help you visualize the branch structure?
+a:
+bardzo
+
