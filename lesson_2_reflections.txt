@@ -19,4 +19,10 @@ How can you use the staging area to make sure you have one commit per logical ch
 a:
 po wprowadzeniu zmian od razu wyslac plik do wprowadzenia
 
+2.15
+q:
+What are some situations when branches would be helpful in keeping your history organized?
+How would branches help?
+a:
+rozgalezienia pomagaja wyprobowac rozne wersje programu
 
