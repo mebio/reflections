@@ -40,4 +40,10 @@ a:
 połączenie wprowadza do głównego wątku wszystkie modyfikacje
 a diagramy pozwalają zobaczyć wszystkie odgałęzienia w kodzie
 
+2.32
+q:
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+a:
+jeżeli wszystko jest jasne to działa automatycznie a inaczej należy
+wszystko ustalić
 
