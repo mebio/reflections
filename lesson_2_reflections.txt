@@ -32,3 +32,12 @@ How do the diagrams help you visualize the branch structure?
 a:
 bardzo
 
+2.25
+q:
+What is the result of merging two branches together?
+Why do we represent it in the diagram the way we do?
+a:
+połączenie wprowadza do głównego wątku wszystkie modyfikacje
+a diagramy pozwalają zobaczyć wszystkie odgałęzienia w kodzie
+
+
