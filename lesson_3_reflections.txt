@@ -5,3 +5,10 @@ q:
 When would you want to use a remote repository rather than keeping all your work local?
 a:
 Należy tak robić jeżeli chc się pracować z różnych miejsc.
+
+3.10
+q:
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+a:
+Ponieważ nie wszystko chcę ze spobą połączyć.
+
