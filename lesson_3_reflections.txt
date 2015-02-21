@@ -12,3 +12,11 @@ Why might you want to always pull changes manually rather than having Git automa
 a:
 Ponieważ nie wszystko chcę ze spobą połączyć.
 
+3.14
+q:
+Describe the differences between forks, clones, and branches.
+When would you use one instead of another?
+a:
+Fork jest połączeniem pomiędzy GitHub a local. Clone to normalna kopia.
+Branch jest rozgałęzieniem projektu.
+
