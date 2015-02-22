@@ -26,3 +26,11 @@ What is the benefit of having a copy of the last known state of the remote store
 a:
 Pozwala to na pracowanie na wersji lokalnie i sklejanie jej z wersją online.
 
+3.25
+q:
+How would you collaborate without using Git or GitHub?
+What would be easier, and what would be harder?
+a:
+Należało by robić spotkania lub łączyć się zadalnie przez komunikatory.
+Mogło by to powodować niespójność działania.
+
