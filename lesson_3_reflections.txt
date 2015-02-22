@@ -34,3 +34,11 @@ a:
 Należało by robić spotkania lub łączyć się zadalnie przez komunikatory.
 Mogło by to powodować niespójność działania.
 
+3.31
+q:
+When would you want to make changes in a separate branch rather than directly in master?
+What benefits does each approach have?
+a:
+W oddzielnej gałęzi lepie robić zmiany w przypadku ćwiczenia nowych pomysłów.
+Możemy być na bierząco lub próbować różne ciekawe rozwiązania.
+
