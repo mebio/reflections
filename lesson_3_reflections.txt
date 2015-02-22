@@ -20,3 +20,9 @@ a:
 Fork jest połączeniem pomiędzy GitHub a local. Clone to normalna kopia.
 Branch jest rozgałęzieniem projektu.
 
+3.22
+q:
+What is the benefit of having a copy of the last known state of the remote stored locally?
+a:
+Pozwala to na pracowanie na wersji lokalnie i sklejanie jej z wersją online.
+
